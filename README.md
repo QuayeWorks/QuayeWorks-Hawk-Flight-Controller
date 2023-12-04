@@ -1,5 +1,4 @@
-The QuayeWorks Hawk Flight Controller by Emmanuel Quaye
-
+The QuayeWorks Hawk Flight Controller by QuayeWorks
  
 
 Rev 0.1A - Created the first revision of the hawk flight controller. Included 2x Atmega328p processor(s), 1x Stm32f103c8t6 processor(s), (MPU6050, BMP180, GY-271) ports via I2C, GPS, NRF2401, SONAR, and SD card expansion.
